@@ -1,2 +1,10 @@
-# AI
-This repository will help me understand artificial intelligence's subject as well as how to use GitHub and Zenodo
+# Instructions to get the program running:
+# 1. Create a safe environment to avoid issues 
+conda instructionssjdhbh
+
+# 2. Install grobid_client_python
+link to grobid?
+
+# 3. Use the uploaded release or the following DOI
+DOI
+
