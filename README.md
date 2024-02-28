@@ -9,6 +9,11 @@ conda activate <choose_name>
 # 2. Install grobid_client_python
 # link to the GitHub repository: https://github.com/kermitt2/grobid_client_python/blob/master/Readme.md
 
-# 3. Use the uploaded release or the following DOI
+# 3.Make sure you have the following Python libraries installed. You can install them with the commands:
+pip install wordcloud
+pip install matplotlib
+pip install beautifulsoup4
+
+# 4. Use the uploaded release or the following DOI
 DOI
 
