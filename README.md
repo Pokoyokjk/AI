@@ -1,6 +1,6 @@
 # Instructions to get the program running:
 # 1. Create a safe environment to install packages without affecting the system-wide Python installation
-# link for conda installation: https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
+link for conda installation: https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
 # commands to create and activate the environment
 $ conda activate
 
