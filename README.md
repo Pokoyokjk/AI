@@ -3,7 +3,9 @@
 # link for conda installation: https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
 # commands to create and activate the environment
 conda activate
+
 conda create -n <choose_name> python=3.10
+
 conda activate <choose_name>
 
 # 2. Install grobid_client_python
@@ -11,7 +13,9 @@ conda activate <choose_name>
 
 # 3.Make sure you have the following Python libraries installed. You can install them with the commands:
 pip install wordcloud
+
 pip install matplotlib
+
 pip install beautifulsoup4
 
 # 4. Use the uploaded release or the following DOI
