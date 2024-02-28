@@ -1,5 +1,5 @@
 # Instructions to get the program running:
-# 1. Create a safe environment to avoid issues 
+# 1. Create a safe environment to install packages without affecting the system-wide Python installation
 conda instructionssjdhbh
 
 # 2. Install grobid_client_python
