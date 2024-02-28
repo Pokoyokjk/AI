@@ -1,9 +1,13 @@
 # Instructions to get the program running:
 # 1. Create a safe environment to install packages without affecting the system-wide Python installation
-conda instructionssjdhbh
+# link for conda installation: https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
+# commands to create and activate the environment
+conda activate
+conda create -n <choose_name> python=3.10
+conda activate <choose_name>
 
 # 2. Install grobid_client_python
-link to grobid?
+# link to the GitHub repository: https://github.com/kermitt2/grobid_client_python/blob/master/Readme.md
 
 # 3. Use the uploaded release or the following DOI
 DOI
