@@ -25,5 +25,5 @@ $ pip install matplotlib
 $ pip install beautifulsoup4
 
 # 5. Use the uploaded release or the following DOI
-[DOI](https://doi.org/10.5281/zenodo.10732381)https://doi.org/10.5281/zenodo.10732381
+https://doi.org/10.5281/zenodo.10732799
 
