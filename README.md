@@ -1,6 +1,7 @@
 # Instructions to get the program running:
 # 1. Install Python
 $ sudo apt update
+
 $ sudo apt install python3
 
 # 2. Create a safe environment to install packages without affecting the system-wide Python installation
