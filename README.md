@@ -26,11 +26,16 @@ $ pip install beautifulsoup4
 Link to the GitHub repository: https://github.com/kermitt2/grobid_client_python/blob/master/Readme.md
 
 # 5. Download the uploaded release (the code)
+
 # 6. Run the code
 Run Grobid (if the following command does not work, see other options in Grobid's GitHub repository).
+
 $ ./gradlew run
+
 You can check if it is working by accessing http://localhost:8070/
+
 In another window, while running grobid in the first one, change your directory to grobid_client_python
+
 $ cd grobid_client_python
 
 #  DOI
