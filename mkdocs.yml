@@ -1,0 +1,13 @@
+site_name: AI's Project Documentation
+repo_url: https://github.com/Pokoyokjk/AI/
+repo_name: GitHub
+project's name: AI
+owner's name: Gloria Cumia
+theme: readthedocs
+site_description: A comprehensive guide to my AI's project
+software's description: 
+nav:
+- Home: readme.md
+markdown_extensions:
+  - toc:
+      permalink: true
