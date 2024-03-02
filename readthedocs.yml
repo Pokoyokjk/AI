@@ -19,7 +19,7 @@ mkdocs:
   configuration: mkdocs.yml
   fail_on_warning: false
 
-  theme:
+theme:
   name: readthedocs
 
-  formats: md
+formats: md
