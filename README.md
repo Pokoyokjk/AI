@@ -4,6 +4,8 @@ The project consists on three scripts which iterate over a list of PDF paths. Fo
 For a detailed code explanation consult the release section.
 
 # Requirements
+Ubuntu 22.04
+
 Python 3.10
 
 Grobid 1.0.0
@@ -17,7 +19,7 @@ wordcloud 1.8.1
 beautifulsoup4 4.10.0
 
 
-# Installation and execution instructions
+# Installation and execution instructions (in Ubuntu)
 ## 1. Install Python
 $ sudo apt update
 
