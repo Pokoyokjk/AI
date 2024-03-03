@@ -75,6 +75,8 @@ Grobid's GitHub repository: https://github.com/kermitt2/grobid/
 
 Conda's web installation page: https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
 
+Contact: gloria.cumia@alumnos.upm.es
+
 # DOI
 https://doi.org/10.5281/zenodo.10732799
 
