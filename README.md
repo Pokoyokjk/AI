@@ -43,20 +43,41 @@ $ pip install matplotlib
 
 $ pip install beautifulsoup4
 
+## 4. Install grobid
+- Ensure you have the JDK installed:
+  
+$ sudo apt-get update
+
+$ sudo apt-get install default-jdk
+
+
+- Get Grobid's GitHub repository
+- 
+$ wget --no-check-certificate https://github.com/kermitt2/grobid/archive/0.8.0.zip
+
+
+- Unzip
+$ unzip 0.8.0.zip
+
+($ sudo apt install unzip)
+
+
 ## 4. Install grobid_client_python
 Link to the GitHub repository: https://github.com/kermitt2/grobid_client_python/blob/master/Readme.md
 
-## 5. Download the code
+## 5. Download the code from this GitHub's repository
 You can find it in the release section or in the code file. 
 
 ## 6. Run the code
 Run Grobid (if the following command does not work, see other options in Grobid's GitHub repository).
 
+$ cd grobid-0.8.0
+
 $ ./gradlew run
 
 You can check if it is working by accessing http://localhost:8070/
 
-In another window, while running grobid in the first one, change your directory to grobid_client_python
+In another Ubuntu window, while running grobid in the first one, change your directory to grobid_client_python
 
 $ cd grobid_client_python
 
