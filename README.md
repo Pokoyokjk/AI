@@ -8,7 +8,7 @@ Ubuntu 22.04
 
 Python 3.10
 
-Grobid 1.0.0
+Grobid 0.8.0
 
 Conda  23.11.0
 
