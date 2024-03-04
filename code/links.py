@@ -1,5 +1,5 @@
 # for funcitons to interact with the OS
-import os import listdir, sep, walk, remove, rmdir, path
+from os import listdir, sep, walk, remove, rmdir, path
 # for interfacing with the Grobid server
 from grobid_client.grobid_client import GrobidClient
 from collections import Counter
