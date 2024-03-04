@@ -12,6 +12,8 @@ build:
     version: "3.10"
   grobid:
     version: 0.8.0
+  grobid_client_python:
+    version: 0.0.8
   conda:
     version: 23.11.0
   matplotlib:
