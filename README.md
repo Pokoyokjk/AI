@@ -10,6 +10,8 @@ Python 3.10
 
 Grobid 0.8.0
 
+Grobid_client_python 0.0.8
+
 Conda  23.11.0
 
 matplotlib 3.4.3
