@@ -25,8 +25,12 @@ build:
 
 python:
   install:
-    - requirements: readme.md
-
+    - requirements: requirements.txt
+    
+non-python:
+  install:
+    - requirements: apt-packages.txt
+    
 mkdocs:
   configuration: mkdocs.yml
   fail_on_warning: false
