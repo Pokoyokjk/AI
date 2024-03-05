@@ -25,11 +25,11 @@ build:
 
 python:
   install:
-    - requirements: requirements.txt
+    - requirements: dependencies/requirements.txt
     
 non-python:
   install:
-    - requirements: apt-packages.txt
+    - requirements: dependencies/apt-packages.txt
     
 mkdocs:
   configuration: mkdocs.yml
