@@ -17,3 +17,11 @@ https://docs.docker.com/engine/install/
 - To build the Docker image:
 
 $ docker build -t myapp .
+
+- To run the Docker image:
+
+$ docker run -v /path/to/pdfs:/app/pdfs -p 3333:3333 myapp
+
+- To access the app:
+
+http://localhost:3333
