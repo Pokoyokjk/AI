@@ -1,0 +1,3 @@
+grobid=0.8.0
+grobid_client_python=0.0.8
+conda=23.11.0
