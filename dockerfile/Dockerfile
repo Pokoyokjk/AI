@@ -13,7 +13,9 @@ RUN apt-get update && \
 COPY . /app
 
 # Installing needed dependencies specified in requirements.txt
-RUN pip install --no-cache-dir -r requirements.txt
+RUN apt-get update && \
+    apt-get install -y libpng-dev libfreetype6-dev && \
+    rm -rf /var/lib/apt/lists/*
 
 # Exposing the port on which the application will run
 EXPOSE 3333
