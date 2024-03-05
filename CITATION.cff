@@ -4,9 +4,6 @@ authors:
 - family-names: "Gloria"
   given-names: "Cumia"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "AI"
 version: 2.3.5
 doi: 10.5281/zenodo.1234
